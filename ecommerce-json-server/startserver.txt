@@ -1,0 +1,1 @@
+json-server -H 0.0.0.0 --watch my-database.json -p 3001 -d 2000
